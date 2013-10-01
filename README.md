@@ -29,6 +29,7 @@
 ##Cities that are using this spec
 
 * [Philadelphia](https://github.com/CityOfPhiladelphia/flu-shot-spec)
+* [Chicago](https://data.cityofchicago.org/developers/docs/flu-shot-clinic-locations-2013)
 
 ##Using / Contributing
 
